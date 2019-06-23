@@ -9,6 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".Detalle"
+            android:label="@string/title_activity_detalle"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".NvoEgreso"
+            android:label="@string/title_activity_nvo_egreso"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NvoIngreso"
+            android:label="@string/title_activity_nvo_ingreso"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
