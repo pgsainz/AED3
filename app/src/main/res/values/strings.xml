@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">AsistenteDeAhorro</string>
-    <string name="title_activity_nvo_ingreso">NvoIngreso</string>
-    <string name="title_activity_nvo_egreso">NvoEgreso</string>
-    <string name="title_activity_detalle">Detalle</string>
-</resources>
